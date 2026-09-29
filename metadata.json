@@ -1,0 +1,6 @@
+{
+  "name": "E-Sakshya Feeding",
+  "description": "Public Google Sheet feeder, registry explorer and interactive data visualizer with dynamic charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
